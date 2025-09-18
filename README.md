@@ -83,11 +83,15 @@ Financial-Report-Balance-sheet-Income-Statement-
 
 العائد على الأصول (ROA): وصل إلى 23.1%، وهو مؤشر على كفاءة الشركة في استخدام أصولها لتحقيق الأرباح.
 
+✅ الملخص العام (Overall Summary):
+عام 2021 شهد تحسنًا ملحوظًا في المركز المالي للشركة، حيث انخفضت الخصوم بشكل كبير وزادت حقوق الملكية بشكل قوي. تشير المؤشرات المالية إلى إدارة مالية حكيمة، مما يعزز الثقة في استدامة الأعمال على المدى الطويل.
+=================================================================================================================================================================================================================
+
 📊 Advanced Financial Analysis with Power BI: Merging Insights from Income Statement and Balance Sheet
 
-I'm excited to share two examples of my work in financial analysis and building interactive reports using Power BI. This project features a comprehensive dashboard that includes an Income Statement and a Balance Sheet for multiple years (images attached).
+ financial analysis and building interactive reports using Power BI. This project features a comprehensive dashboard that includes an Income Statement and a Balance Sheet for multiple years 
 
-Part One: Income Statement Analysis (2021)
+Part One: Income Statement Analysis 
 🔹 Real-time monitoring of revenues, expenses, and net income throughout 2021, with a direct comparison to the previous year (LY).
 🔹 Monthly analysis of profits, highlighting key trends towards the end of the year.
 🔹 Advanced DAX measures to calculate margins and profitability ratios.
@@ -170,5 +174,3 @@ Return on Assets (ROA): Reached 23.1%, which is an indicator of the company's ef
 The year 2021 saw a remarkable improvement in the company's financial position, with a significant decrease in liabilities and a strong increase in equity. The financial indicators point to wise financial management, which strengthens confidence in the long-term sustainability of the business.
 
 
-✅ الملخص العام (Overall Summary):
-عام 2021 شهد تحسنًا ملحوظًا في المركز المالي للشركة، حيث انخفضت الخصوم بشكل كبير وزادت حقوق الملكية بشكل قوي. تشير المؤشرات المالية إلى إدارة مالية حكيمة، مما يعزز الثقة في استدامة الأعمال على المدى الطويل.
